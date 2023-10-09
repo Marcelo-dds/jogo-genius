@@ -10,9 +10,9 @@
 ## O que é o projeto ? 
 
 
-"O projeto é um jogo dos anos 80 chamado Genius. O projeto em si tinha como objetivo recriar o jogo usando as linguagens HTML, CSS e JavaScript. O jogo começa com a frase "Bem-vindo ao Gênesis! Iniciando novo jogo!" Logo depois de apertar o botão "ok", você pode começar.
+O projeto é um jogo dos anos 80 chamado Genius. O projeto em si tinha como objetivo recriar o jogo usando as linguagens HTML, CSS e JavaScript. O jogo começa com a frase "Bem-vindo ao Gênesis! Iniciando novo jogo!" Logo depois de apertar o botão "ok", você pode começar.
 
-Ele vai dar algumas cores a cada nível que você atingir; mais núcleos vão surgindo. No jogo, também há uma função de pontuação, na qual cada nível que você avança aumenta sua pontuação. Se você errar, o jogo será reiniciado e terá sua pontuação."
+Ele vai dar algumas cores a cada nível que você atingir; mais núcleos vão surgindo. No jogo, também há uma função de pontuação, na qual cada nível que você avança aumenta sua pontuação. Se você errar, o jogo será reiniciado e terá sua pontuação.
 
 ## hard skill usadas
 
